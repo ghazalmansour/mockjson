@@ -1,0 +1,404 @@
+{
+  "properties": [
+    {
+      "property_url": "https://www.zillow.com/homedetails/3199-Jackson-St-San-Francisco-CA-94115/2081023776_zpid/",
+      "address": "3199 Jackson St, San Francisco, CA 94115",
+      "price": 32000000,
+      "bedroom_count": 9,
+      "bathroom_count": 15,
+      "size": 24000,
+      "publication_date": "2020-04-17T12:00:00.000Z",
+      "agent": "Black Book International, Inc"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2799-Broadway-St-San-Francisco-CA-94115/2082359386_zpid/",
+      "address": "2799 Broadway St, San Francisco, CA",
+      "price": 39000000,
+      "bedroom_count": 6,
+      "bathroom_count": 9,
+      "size": 11600,
+      "publication_date": null,
+      "agent": "Sotheby's International Realty - San Francisco Brokerage"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2127-35th-Ave-San-Francisco-CA-94116/15117254_zpid/",
+      "address": "2127 35th Ave, San Francisco, CA 94116",
+      "price": 795000,
+      "bedroom_count": 3,
+      "bathroom_count": 2,
+      "size": 1670,
+      "publication_date": "2020-03-30T12:00:00.000Z",
+      "agent": "BarbCo"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/35-Dolores-St-APT-103-San-Francisco-CA-94103/2080983565_zpid/",
+      "address": "35 Dolores St APT 103, San Francisco, CA 94103",
+      "price": 312324,
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "size": null,
+      "publication_date": "2020-04-13T12:00:00.000Z",
+      "agent": "Home Quest Realty"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/3800-Washington-St-San-Francisco-CA-94118/15081566_zpid/",
+      "address": "3800 Washington St, San Francisco, CA 94118",
+      "price": 21800000,
+      "bedroom_count": 9,
+      "bathroom_count": 8,
+      "size": 18788,
+      "publication_date": "2020-05-05T12:00:00.000Z",
+      "agent": "Coldwell Banker Realty - San Francisco Pacific Heights"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1247-Dogwood-St-Santa-Paula-CA-93060/2080589710_zpid/",
+      "address": "1247 Dogwood St, Santa Paula, CA",
+      "price": 587900,
+      "bedroom_count": 3,
+      "bathroom_count": 2,
+      "size": 2055,
+      "publication_date": "2020-03-22T12:00:00.000Z",
+      "agent": "Williams Homes"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1463-Thomas-Ave-San-Francisco-CA-94124/15154182_zpid/",
+      "address": "1463 Thomas Ave, San Francisco, CA 94124",
+      "price": 659000,
+      "bedroom_count": 7,
+      "bathroom_count": 3,
+      "size": 2274,
+      "publication_date": "2020-03-20T12:00:00.000Z",
+      "agent": "Compass SF"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/336-Juanita-Way-San-Francisco-CA-94127/15135417_zpid/",
+      "address": "336 Juanita Way, San Francisco, CA 94127",
+      "price": 1995000,
+      "bedroom_count": 5,
+      "bathroom_count": 3,
+      "size": 3065,
+      "publication_date": "2020-03-21T12:00:00.000Z",
+      "agent": "Compass SF"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/220-Anza-St-San-Francisco-CA-94118/2080519488_zpid/",
+      "address": "220 Anza St, San Francisco, CA 94118",
+      "price": 1100000,
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "size": null,
+      "publication_date": "2020-03-18T12:00:00.000Z",
+      "agent": "McGuire Real Estate"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2323-Funston-Ave-San-Francisco-CA-94116/15120098_zpid/",
+      "address": "2323 Funston Ave, San Francisco, CA 94116",
+      "price": 1795000,
+      "bedroom_count": 3,
+      "bathroom_count": 3,
+      "size": 2559,
+      "publication_date": "2020-03-17T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1139-Judah-St-San-Francisco-CA-94122/15105655_zpid/",
+      "address": "1139 Judah St, San Francisco, CA 94122",
+      "price": 995000,
+      "bedroom_count": 3,
+      "bathroom_count": 2,
+      "size": 1000,
+      "publication_date": "2020-03-30T12:00:00.000Z",
+      "agent": "BarbCo"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2646-Union-St-San-Francisco-CA-94123/15080441_zpid/",
+      "address": "2646 Union St, San Francisco, CA 94123",
+      "price": 25000000,
+      "bedroom_count": 4,
+      "bathroom_count": 7.5,
+      "size": 5465,
+      "publication_date": "2020-03-04T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1335-Filbert-St-APT-101-San-Francisco-CA-94109/15071601_zpid/",
+      "address": "1335 Filbert St APT 101, San Francisco, CA 94109",
+      "price": 187620,
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "size": 914,
+      "publication_date": "2020-04-20T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1219-York-St-San-Francisco-CA-94110/15152416_zpid/",
+      "address": "1219 York St, San Francisco, CA 94110",
+      "price": 1049000,
+      "bedroom_count": 6,
+      "bathroom_count": 3,
+      "size": 1968,
+      "publication_date": "2020-03-21T12:00:00.000Z",
+      "agent": "Re/Max Synergy Group"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1133-Russia-Ave-San-Francisco-CA-94112/15171484_zpid/",
+      "address": "1133 Russia Ave, San Francisco, CA 94112",
+      "price": 959000,
+      "bedroom_count": 4,
+      "bathroom_count": 2,
+      "size": 1380,
+      "publication_date": "2020-03-27T12:00:00.000Z",
+      "agent": "Compass SF"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/46-Cook-St-San-Francisco-CA-94118/15083543_zpid/",
+      "address": "46 Cook St, San Francisco, CA 94118",
+      "price": 2799000,
+      "bedroom_count": 4,
+      "bathroom_count": 3,
+      "size": 3216,
+      "publication_date": null,
+      "agent": "Compass SF"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/880-Ashbury-St-San-Francisco-CA-94117/249697817_zpid/",
+      "address": "880 Ashbury St, San Francisco, CA 94117",
+      "price": 5350000,
+      "bedroom_count": 5,
+      "bathroom_count": 4.5,
+      "size": 4345,
+      "publication_date": "2020-03-21T12:00:00.000Z",
+      "agent": "Vanguard Properties"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2555-Webster-St-San-Francisco-CA-94115/15073274_zpid/",
+      "address": "2555 Webster St, San Francisco, CA 94115",
+      "price": 12900000,
+      "bedroom_count": 7,
+      "bathroom_count": 9,
+      "size": 9765,
+      "publication_date": "2020-03-25T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/25-Bruce-Ave-San-Francisco-CA-94112/15188955_zpid/",
+      "address": "25 Bruce Ave, San Francisco, CA 94112",
+      "price": 880000,
+      "bedroom_count": 2,
+      "bathroom_count": 1,
+      "size": 992,
+      "publication_date": "2020-03-20T12:00:00.000Z",
+      "agent": "David Harvey, Broker"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/255-Tingley-St-San-Francisco-CA-94112/15186353_zpid/",
+      "address": "255 Tingley St, San Francisco, CA 94112",
+      "price": 1280000,
+      "bedroom_count": 4,
+      "bathroom_count": 5,
+      "size": 2140,
+      "publication_date": null,
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/311-Baden-St-San-Francisco-CA-94131/15185833_zpid/",
+      "address": "311 Baden St, San Francisco, CA 94131",
+      "price": 1975000,
+      "bedroom_count": 4,
+      "bathroom_count": 3.5,
+      "size": 2045,
+      "publication_date": "2020-03-20T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/217-Bocana-St-San-Francisco-CA-94110/15162464_zpid/",
+      "address": "217 Bocana St, San Francisco, CA 94110",
+      "price": 1395000,
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "size": 1068,
+      "publication_date": "2020-03-20T12:00:00.000Z",
+      "agent": "The Agency"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/32-S-Hill-Blvd-San-Francisco-CA-94112/15177397_zpid/",
+      "address": "32 S Hill Blvd, San Francisco, CA 94112",
+      "price": 1499000,
+      "bedroom_count": 5,
+      "bathroom_count": 4,
+      "size": 2230,
+      "publication_date": "2020-03-21T12:00:00.000Z",
+      "agent": "CENTURY 21 Real Estate Alliance"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/167-7th-Ave-San-Francisco-CA-94118/119685485_zpid/",
+      "address": "167 7th Ave, San Francisco, CA 94118",
+      "price": 1195000,
+      "bedroom_count": 3,
+      "bathroom_count": 1.25,
+      "size": 1336,
+      "publication_date": "2020-03-27T12:00:00.000Z",
+      "agent": "Compass SF"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/878-37th-Ave-San-Francisco-CA-94121/15100047_zpid/",
+      "address": "878 37th Ave, San Francisco, CA 94121",
+      "price": 1295000,
+      "bedroom_count": 4,
+      "bathroom_count": 2,
+      "size": 2040,
+      "publication_date": "2020-03-29T12:00:00.000Z",
+      "agent": "T. Okamoto & Co."
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2318-Quintara-St-San-Francisco-CA-94116/15116180_zpid/",
+      "address": "2318 Quintara St, San Francisco, CA 94116",
+      "price": 1495000,
+      "bedroom_count": 5,
+      "bathroom_count": 3,
+      "size": 2164,
+      "publication_date": "2020-03-17T12:00:00.000Z",
+      "agent": "Coldwell Banker Realty - San Francisco Sunset"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/105-Foote-Ave-San-Francisco-CA-94112/15192872_zpid/",
+      "address": "105 Foote Ave, San Francisco, CA 94112",
+      "price": 950000,
+      "bedroom_count": 3,
+      "bathroom_count": 2,
+      "size": 1798,
+      "publication_date": "2020-03-21T12:00:00.000Z",
+      "agent": "Coldwell Banker Realty - San Francisco Lakeside"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2921-Judah-St-San-Francisco-CA-94122/15104814_zpid/",
+      "address": "2921 Judah St, San Francisco, CA 94122",
+      "price": 699000,
+      "bedroom_count": 2,
+      "bathroom_count": 1,
+      "size": 800,
+      "publication_date": "2020-04-10T12:00:00.000Z",
+      "agent": "Kurniadi Realty"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/251-Minerva-St-San-Francisco-CA-94112/15193864_zpid/",
+      "address": "251 Minerva St, San Francisco, CA 94112",
+      "price": 859000,
+      "bedroom_count": 3,
+      "bathroom_count": 2,
+      "size": 1190,
+      "publication_date": "2020-03-28T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1074-Filbert-St-San-Francisco-CA-94133/2080715585_zpid/",
+      "address": "1074 Filbert St, San Francisco, CA 94133",
+      "price": 7550000,
+      "bedroom_count": 5,
+      "bathroom_count": 4.5,
+      "size": null,
+      "publication_date": "2020-03-24T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1758-32nd-Ave-San-Francisco-CA-94122/15110766_zpid/",
+      "address": "1758 32nd Ave, San Francisco, CA 94122",
+      "price": 1150000,
+      "bedroom_count": 2,
+      "bathroom_count": 1,
+      "size": 1150,
+      "publication_date": "2020-03-17T12:00:00.000Z",
+      "agent": "Coldwell Banker Realty - San Francisco Sunset"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/218-Anza-St-San-Francisco-CA-94118/2080519499_zpid/",
+      "address": "218 Anza St, San Francisco, CA 94118",
+      "price": 1100000,
+      "bedroom_count": 2,
+      "bathroom_count": 2,
+      "size": null,
+      "publication_date": "2020-03-18T12:00:00.000Z",
+      "agent": "McGuire Real Estate"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2820-Scott-St-San-Francisco-CA-94123/2143821426_zpid/",
+      "address": "2820 Scott St, San Francisco, CA 94123",
+      "price": 27500000,
+      "bedroom_count": 7,
+      "bathroom_count": 11,
+      "size": 16000,
+      "publication_date": "2021-04-05T12:00:00.000Z",
+      "agent": "Golden Gate Sotheby's International Realty"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2256-Cabrillo-St-San-Francisco-CA-94121/15097655_zpid/",
+      "address": "2256 Cabrillo St, San Francisco, CA 94121",
+      "price": 1550000,
+      "bedroom_count": 3,
+      "bathroom_count": 3,
+      "size": 2400,
+      "publication_date": "2020-03-20T12:00:00.000Z",
+      "agent": "Fidelity Brokers, Inc"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/10-Sea-Cliff-Ave-San-Francisco-CA-94121/15088581_zpid/",
+      "address": "10 Sea Cliff Ave, San Francisco, CA 94121",
+      "price": 10980000,
+      "bedroom_count": 4,
+      "bathroom_count": 4,
+      "size": 3420,
+      "publication_date": "2020-03-02T12:00:00.000Z",
+      "agent": "Coldwell Banker Realty - San Francisco Pacific Heights"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/3230-16th-St-APT-C-San-Francisco-CA-94103/2080740111_zpid/",
+      "address": "3230 16th St APT C, San Francisco, CA 94103",
+      "price": 849000,
+      "bedroom_count": 2,
+      "bathroom_count": 1,
+      "size": 1097,
+      "publication_date": "2020-03-27T12:00:00.000Z",
+      "agent": "Berri Real Estate"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/559-Cordova-St-San-Francisco-CA-94112/15178362_zpid/",
+      "address": "559 Cordova St, San Francisco, CA 94112",
+      "price": 900000,
+      "bedroom_count": 3,
+      "bathroom_count": 1,
+      "size": 1383,
+      "publication_date": "2020-03-20T12:00:00.000Z",
+      "agent": "Sotheby's International Realty - San Francisco Brokerage"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2638-39th-Ave-San-Francisco-CA-94116/15124854_zpid/",
+      "address": "2638 39th Ave, San Francisco, CA 94116",
+      "price": 899000,
+      "bedroom_count": 2,
+      "bathroom_count": 1,
+      "size": 1504,
+      "publication_date": "2020-03-27T12:00:00.000Z",
+      "agent": "Berkshire Hathaway-Franciscan"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/686-Guerrero-St-APT-3-San-Francisco-CA-94110/2096885539_zpid/",
+      "address": "686 Guerrero St APT 3, San Francisco, CA 94110",
+      "price": 899000,
+      "bedroom_count": 2,
+      "bathroom_count": 1,
+      "size": 1080,
+      "publication_date": "2020-03-08T12:00:00.000Z",
+      "agent": "Redfin"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/508-Belvedere-St-San-Francisco-CA-94117/15088136_zpid/",
+      "address": "508 Belvedere St, San Francisco, CA 94117",
+      "price": 3995000,
+      "bedroom_count": 5,
+      "bathroom_count": 2.5,
+      "size": 2650,
+      "publication_date": "2020-03-18T12:00:00.000Z",
+      "agent": "Compass SF"
+    }
+  ]
+}
