@@ -274,50 +274,6 @@
       "size": 2040,
       "publication_date": "2020-03-29T12:00:00.000Z",
       "agent": "T. Okamoto & Co."
-    },
-    {
-      "id":"26",
-      "property_url": "https://www.zillow.com/homedetails/2318-Quintara-St-San-Francisco-CA-94116/15116180_zpid/",
-      "address": "2318 Quintara St, San Francisco, CA 94116",
-      "price": 1495000,
-      "bedroom_count": 5,
-      "bathroom_count": 3,
-      "size": 2164,
-      "publication_date": "2020-03-17T12:00:00.000Z",
-      "agent": "Coldwell Banker Realty - San Francisco Sunset"
-    },
-    {
-      "id":"27",
-      "property_url": "https://www.zillow.com/homedetails/105-Foote-Ave-San-Francisco-CA-94112/15192872_zpid/",
-      "address": "105 Foote Ave, San Francisco, CA 94112",
-      "price": 950000,
-      "bedroom_count": 3,
-      "bathroom_count": 2,
-      "size": 1798,
-      "publication_date": "2020-03-21T12:00:00.000Z",
-      "agent": "Coldwell Banker Realty - San Francisco Lakeside"
-    },
-    {
-      "id":"28",
-      "property_url": "https://www.zillow.com/homedetails/2921-Judah-St-San-Francisco-CA-94122/15104814_zpid/",
-      "address": "2921 Judah St, San Francisco, CA 94122",
-      "price": 699000,
-      "bedroom_count": 2,
-      "bathroom_count": 1,
-      "size": 800,
-      "publication_date": "2020-04-10T12:00:00.000Z",
-      "agent": "Kurniadi Realty"
-    },
-    {
-      "id":"29",
-      "property_url": "https://www.zillow.com/homedetails/251-Minerva-St-San-Francisco-CA-94112/15193864_zpid/",
-      "address": "251 Minerva St, San Francisco, CA 94112",
-      "price": 859000,
-      "bedroom_count": 3,
-      "bathroom_count": 2,
-      "size": 1190,
-      "publication_date": "2020-03-28T12:00:00.000Z",
-      "agent": "Compass"
     }
   ]
 }
