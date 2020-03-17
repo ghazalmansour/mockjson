@@ -318,17 +318,6 @@
       "size": 1190,
       "publication_date": "2020-03-28T12:00:00.000Z",
       "agent": "Compass"
-    },
-    {
-      "id":"30",
-      "property_url": "https://www.zillow.com/homedetails/1074-Filbert-St-San-Francisco-CA-94133/2080715585_zpid/",
-      "address": "1074 Filbert St, San Francisco, CA 94133",
-      "price": 7550000,
-      "bedroom_count": 5,
-      "bathroom_count": 4.5,
-      "size": null,
-      "publication_date": "2020-03-24T12:00:00.000Z",
-      "agent": "Compass"
     }
   ]
 }
