@@ -109,6 +109,106 @@
       "size": 2559,
       "publication_date": "2020-03-17T12:00:00.000Z",
       "agent": "Compass"
+    },
+     {
+      "property_url": "https://www.zillow.com/homedetails/1139-Judah-St-San-Francisco-CA-94122/15105655_zpid/",
+      "address": "1139 Judah St, San Francisco, CA 94122",
+      "price": 995000,
+      "bedroom_count": 3,
+      "bathroom_count": 2,
+      "size": 1000,
+      "publication_date": "2020-03-30T12:00:00.000Z",
+      "agent": "BarbCo"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2646-Union-St-San-Francisco-CA-94123/15080441_zpid/",
+      "address": "2646 Union St, San Francisco, CA 94123",
+      "price": 25000000,
+      "bedroom_count": 4,
+      "bathroom_count": 7.5,
+      "size": 5465,
+      "publication_date": "2020-03-04T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1335-Filbert-St-APT-101-San-Francisco-CA-94109/15071601_zpid/",
+      "address": "1335 Filbert St APT 101, San Francisco, CA 94109",
+      "price": 187620,
+      "bedroom_count": 1,
+      "bathroom_count": 1,
+      "size": 914,
+      "publication_date": "2020-04-20T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1219-York-St-San-Francisco-CA-94110/15152416_zpid/",
+      "address": "1219 York St, San Francisco, CA 94110",
+      "price": 1049000,
+      "bedroom_count": 6,
+      "bathroom_count": 3,
+      "size": 1968,
+      "publication_date": "2020-03-21T12:00:00.000Z",
+      "agent": "Re/Max Synergy Group"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/1133-Russia-Ave-San-Francisco-CA-94112/15171484_zpid/",
+      "address": "1133 Russia Ave, San Francisco, CA 94112",
+      "price": 959000,
+      "bedroom_count": 4,
+      "bathroom_count": 2,
+      "size": 1380,
+      "publication_date": "2020-03-27T12:00:00.000Z",
+      "agent": "Compass SF"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/46-Cook-St-San-Francisco-CA-94118/15083543_zpid/",
+      "address": "46 Cook St, San Francisco, CA 94118",
+      "price": 2799000,
+      "bedroom_count": 4,
+      "bathroom_count": 3,
+      "size": 3216,
+      "publication_date": null,
+      "agent": "Compass SF"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/880-Ashbury-St-San-Francisco-CA-94117/249697817_zpid/",
+      "address": "880 Ashbury St, San Francisco, CA 94117",
+      "price": 5350000,
+      "bedroom_count": 5,
+      "bathroom_count": 4.5,
+      "size": 4345,
+      "publication_date": "2020-03-21T12:00:00.000Z",
+      "agent": "Vanguard Properties"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/2555-Webster-St-San-Francisco-CA-94115/15073274_zpid/",
+      "address": "2555 Webster St, San Francisco, CA 94115",
+      "price": 12900000,
+      "bedroom_count": 7,
+      "bathroom_count": 9,
+      "size": 9765,
+      "publication_date": "2020-03-25T12:00:00.000Z",
+      "agent": "Compass"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/25-Bruce-Ave-San-Francisco-CA-94112/15188955_zpid/",
+      "address": "25 Bruce Ave, San Francisco, CA 94112",
+      "price": 880000,
+      "bedroom_count": 2,
+      "bathroom_count": 1,
+      "size": 992,
+      "publication_date": "2020-03-20T12:00:00.000Z",
+      "agent": "David Harvey, Broker"
+    },
+    {
+      "property_url": "https://www.zillow.com/homedetails/255-Tingley-St-San-Francisco-CA-94112/15186353_zpid/",
+      "address": "255 Tingley St, San Francisco, CA 94112",
+      "price": 1280000,
+      "bedroom_count": 4,
+      "bathroom_count": 5,
+      "size": 2140,
+      "publication_date": null,
+      "agent": "Compass"
     }
   ]
 }
