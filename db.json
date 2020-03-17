@@ -219,61 +219,6 @@
       "size": 2140,
       "publication_date": null,
       "agent": "Compass"
-    },
-    {
-      "id":"21",
-      "property_url": "https://www.zillow.com/homedetails/311-Baden-St-San-Francisco-CA-94131/15185833_zpid/",
-      "address": "311 Baden St, San Francisco, CA 94131",
-      "price": 1975000,
-      "bedroom_count": 4,
-      "bathroom_count": 3.5,
-      "size": 2045,
-      "publication_date": "2020-03-20T12:00:00.000Z",
-      "agent": "Compass"
-    },
-    {
-      "id":"22",
-      "property_url": "https://www.zillow.com/homedetails/217-Bocana-St-San-Francisco-CA-94110/15162464_zpid/",
-      "address": "217 Bocana St, San Francisco, CA 94110",
-      "price": 1395000,
-      "bedroom_count": 2,
-      "bathroom_count": 2,
-      "size": 1068,
-      "publication_date": "2020-03-20T12:00:00.000Z",
-      "agent": "The Agency"
-    },
-    {
-      "id":"23",
-      "property_url": "https://www.zillow.com/homedetails/32-S-Hill-Blvd-San-Francisco-CA-94112/15177397_zpid/",
-      "address": "32 S Hill Blvd, San Francisco, CA 94112",
-      "price": 1499000,
-      "bedroom_count": 5,
-      "bathroom_count": 4,
-      "size": 2230,
-      "publication_date": "2020-03-21T12:00:00.000Z",
-      "agent": "CENTURY 21 Real Estate Alliance"
-    },
-    {
-      "id":"24",
-      "property_url": "https://www.zillow.com/homedetails/167-7th-Ave-San-Francisco-CA-94118/119685485_zpid/",
-      "address": "167 7th Ave, San Francisco, CA 94118",
-      "price": 1195000,
-      "bedroom_count": 3,
-      "bathroom_count": 1.25,
-      "size": 1336,
-      "publication_date": "2020-03-27T12:00:00.000Z",
-      "agent": "Compass SF"
-    },
-    {
-      "id":"25",
-      "property_url": "https://www.zillow.com/homedetails/878-37th-Ave-San-Francisco-CA-94121/15100047_zpid/",
-      "address": "878 37th Ave, San Francisco, CA 94121",
-      "price": 1295000,
-      "bedroom_count": 4,
-      "bathroom_count": 2,
-      "size": 2040,
-      "publication_date": "2020-03-29T12:00:00.000Z",
-      "agent": "T. Okamoto & Co."
     }
   ]
 }
