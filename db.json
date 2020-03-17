@@ -1,6 +1,7 @@
 {
   "properties": [
     {
+      "id":"1",
       "property_url": "https://www.zillow.com/homedetails/3199-Jackson-St-San-Francisco-CA-94115/2081023776_zpid/",
       "address": "3199 Jackson St, San Francisco, CA 94115",
       "price": 32000000,
@@ -11,6 +12,7 @@
       "agent": "Black Book International, Inc"
     },
     {
+      "id":"2",
       "property_url": "https://www.zillow.com/homedetails/2799-Broadway-St-San-Francisco-CA-94115/2082359386_zpid/",
       "address": "2799 Broadway St, San Francisco, CA",
       "price": 39000000,
@@ -21,6 +23,7 @@
       "agent": "Sotheby's International Realty - San Francisco Brokerage"
     },
     {
+      "id":"3",
       "property_url": "https://www.zillow.com/homedetails/2127-35th-Ave-San-Francisco-CA-94116/15117254_zpid/",
       "address": "2127 35th Ave, San Francisco, CA 94116",
       "price": 795000,
@@ -31,6 +34,7 @@
       "agent": "BarbCo"
     },
     {
+      "id":"4",
       "property_url": "https://www.zillow.com/homedetails/35-Dolores-St-APT-103-San-Francisco-CA-94103/2080983565_zpid/",
       "address": "35 Dolores St APT 103, San Francisco, CA 94103",
       "price": 312324,
@@ -41,6 +45,7 @@
       "agent": "Home Quest Realty"
     },
     {
+      "id":"5",
       "property_url": "https://www.zillow.com/homedetails/3800-Washington-St-San-Francisco-CA-94118/15081566_zpid/",
       "address": "3800 Washington St, San Francisco, CA 94118",
       "price": 21800000,
@@ -51,6 +56,7 @@
       "agent": "Coldwell Banker Realty - San Francisco Pacific Heights"
     },
     {
+      "id":"6",
       "property_url": "https://www.zillow.com/homedetails/1247-Dogwood-St-Santa-Paula-CA-93060/2080589710_zpid/",
       "address": "1247 Dogwood St, Santa Paula, CA",
       "price": 587900,
@@ -61,6 +67,7 @@
       "agent": "Williams Homes"
     },
     {
+      "id":"7",
       "property_url": "https://www.zillow.com/homedetails/1463-Thomas-Ave-San-Francisco-CA-94124/15154182_zpid/",
       "address": "1463 Thomas Ave, San Francisco, CA 94124",
       "price": 659000,
@@ -71,6 +78,7 @@
       "agent": "Compass SF"
     },
     {
+      "id":"8",
       "property_url": "https://www.zillow.com/homedetails/336-Juanita-Way-San-Francisco-CA-94127/15135417_zpid/",
       "address": "336 Juanita Way, San Francisco, CA 94127",
       "price": 1995000,
@@ -81,6 +89,7 @@
       "agent": "Compass SF"
     },
     {
+      "id":"9",
       "property_url": "https://www.zillow.com/homedetails/220-Anza-St-San-Francisco-CA-94118/2080519488_zpid/",
       "address": "220 Anza St, San Francisco, CA 94118",
       "price": 1100000,
@@ -91,6 +100,7 @@
       "agent": "McGuire Real Estate"
     },
     {
+      "id":"10",
       "property_url": "https://www.zillow.com/homedetails/2323-Funston-Ave-San-Francisco-CA-94116/15120098_zpid/",
       "address": "2323 Funston Ave, San Francisco, CA 94116",
       "price": 1795000,
